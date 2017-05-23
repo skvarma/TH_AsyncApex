@@ -33,5 +33,9 @@
         <members>Case</members>
         <name>Workflow</name>
     </types>
+    <types>
+        <members>Account.Approve_New_Account</members>
+        <name>ApprovalProcess</name>
+    </types>
     <version>39.0</version>
 </Package>
