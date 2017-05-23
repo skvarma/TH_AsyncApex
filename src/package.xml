@@ -29,5 +29,9 @@
         <members>FlowPage</members>
         <name>ApexPage</name>
     </types>
+    <types>
+        <members>Case</members>
+        <name>Workflow</name>
+    </types>
     <version>39.0</version>
 </Package>
