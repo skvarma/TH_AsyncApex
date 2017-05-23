@@ -20,5 +20,9 @@
         <members>DailyLeadProcessorTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>update_child_record_when_the_parent_is_updated-1</members>
+        <name>Flow</name>
+    </types>
     <version>39.0</version>
 </Package>
