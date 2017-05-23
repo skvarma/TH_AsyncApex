@@ -16,6 +16,8 @@
         <members>LeadProcessorTest</members>
         <members>AddPrimaryContact</members>
         <members>AddPrimaryContactTest</members>
+        <members>DailyLeadProcessor</members>
+        <members>DailyLeadProcessorTest</members>
         <name>ApexClass</name>
     </types>
     <version>39.0</version>
