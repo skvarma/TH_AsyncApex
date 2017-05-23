@@ -22,7 +22,12 @@
     </types>
     <types>
         <members>update_child_record_when_the_parent_is_updated-1</members>
+        <members>New_Customer_Flow-1</members>
         <name>Flow</name>
+    </types>
+    <types>
+        <members>FlowPage</members>
+        <name>ApexPage</name>
     </types>
     <version>39.0</version>
 </Package>
